@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android1Lesson7.Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="movies">Movies</string>
+    <string name="name">Name</string>
+    <string name="cats">CATS</string>
+    <string name="dogs">DOGS</string>
+    <string name="moviess">MOVIES</string>
+    <string name="fact1">В мире насчитывается более 600 млн домашних кошек, что делает их популярным домашним питомцем</string>
+    <string name="fact2">Кошки видят лучше в условиях слабого освещения благодаря увеличенному количеству фоторецепторов-палочек и светоотражающему слою-тапетуму</string>
+    <string name="fact3">Кошки общаются с соплеменниками и человеком с помощью различных звуков, придавая им разный смысл.</string>
+    <string name="fact4">Движение, когда довольная кошка мнет передними лапками, имеет научное название молочный шаг</string>
+    <string name="fact5">Усы кошек являются специальными осязательными волосками-вибриссами, которые помогают им ориентироваться в окружающем мире.</string>
+    <string name="dog1">" № 1. Собаки не видят под собственным носом "</string>
+    <string name="dog2">"№ 2. Маленькие собаки — не дело рук человека "</string>
+    <string name="dog3">"№ 3. Собаки легко вычисляют лгунов "</string>
+    <string name="dog4">". № 4. Виляющийx хвост — не всегда радость и дружелюбие "</string>
+    <string name="movies1">В каждом фильме естественно важен сам сюжет.Ну и конечно же окончание,развязка этого фильма,особенно если она непредсказуемая.</string>
+    <string name="movies2">В каждом фильме еmovies1стественно важен сам сюжет.Ну и конечно же окончание,развязка этого фильма,особенно если она непредсказуемая.</string>
+    <string name="movies3">В каждом фильме естественно важен сам сюжет.Ну и конечно же окончание,развязка этого фильма,особенно если она непредсказуемая.</string>
+    <string name="movies4">В каждом фильме естественно важен сам сюжет.Ну и конечно же окончание,развязка этого фильма,особенно если она непредсказуемая.</string>
+</resources>
